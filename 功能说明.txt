@@ -1,0 +1,10 @@
+本工具适用于自研的基于cocos2dx的框架
+1.支持纹理转换RGBA8888，RGBA4444，RGB565等各种RGBA细分格式；支持转Etc1（可选择+alpha），pvr，etc2等格式
+2.支持flash动画转序列帧或自研骨骼动画；支持spine等格式转换
+3.切割图片适配正方形的支持
+4.polygon扩展知支持
+额外软件需求
+1.mali converter
+2.pvr converter
+3.texturepacker
+4.flash AIR
